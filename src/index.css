@@ -1,0 +1,13 @@
+.tittle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h-1 {
+    color: #46A094;
+}
+
+.span {
+    color: #6BBD99;
+}
